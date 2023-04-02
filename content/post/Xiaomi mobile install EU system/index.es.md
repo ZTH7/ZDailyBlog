@@ -1,7 +1,7 @@
 ---
 author: "ZT"
-title: "安卓手机刷机记录"
-description: Xiaomi mobile install EU system
+title: Xiaomi mobile install EU system
+description: "安卓手机刷机记录"
 image: fastboot.jpg
 date: 2023-03-30T19:06:12+02:00
 categories:
@@ -22,7 +22,7 @@ draft: false
 - 手机解锁BootLoader，需要绑定手机账户7天以上。解锁时手机会被双清（data和cache）
 - 以小米手机为例，需要在 [官网](www.miui.com/unlock/) 上申请解锁。
 - 准备好Android adb
-- 准备好要刷的系统，在解锁完BootLoader后提前放入手机某个文件夹（此处使用卡刷包，小米EU版系统[链接](https://xiaomirom.com/rom/)）
+- 准备好要刷的系统，在解锁完BootLoader后提前放入手机某个文件夹（此处使用卡刷包，小米EU版系统 [链接](https://xiaomi.eu/) 或者 [链接](https://xiaomirom.com/rom/)）
 
 
 
